@@ -26,6 +26,7 @@
 
 Требуется развернуть топологию из лекции и выполнить установку и настройку сервиса Keepalived.
 
+```
 vrrp_instance test {
 
 state "name_mode"
@@ -59,6 +60,7 @@ virtual_ipaddress {
 }
 
 }
+```
 
 Пришлите конфигурацию сервисов для каждой ноды и скриншот вывода команды ip address.
 
@@ -117,4 +119,4 @@ node1
 ```
 node2
 ```
-![ip a from VM02](https://github.com/VladimirKachaikin/10.1.-Keepalived-vrrp-hw/blob/main/img/10.1_img_vm02.png)`
+![ip a from VM02](https://github.com/VladimirKachaikin/10.1.-Keepalived-vrrp-hw/blob/main/img/10.1_img_vm02.PNG)`
