@@ -109,5 +109,12 @@ virtual_ipaddress {
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![ip a from VM01](https://github.com/VladimirKachaikin/10.1.-Keepalived-vrrp-hw/img/10.1_img_vm01.png)
-![ip a from VM02](https://github.com/VladimirKachaikin/10.1.-Keepalived-vrrp-hw/img/10.1_img_vm02.png)`
+```
+node1
+```
+![ip a from VM01](https://github.com/VladimirKachaikin/10.1.-Keepalived-vrrp-hw/blob/main/img/10.1_img_vm01.PNG)
+
+```
+node2
+```
+![ip a from VM02](https://github.com/VladimirKachaikin/10.1.-Keepalived-vrrp-hw/blob/main/img/10.1_img_vm02.png)`
